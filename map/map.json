@@ -8,12 +8,12 @@
                 "name": "主楼",
                 "latitude": "38.014846",
                 "longitude": "112.449349",
-                "iconPath": "https://dreace.top/imgs/miniappimage/icon/TeachingBuilding.png",
+                "iconPath": "https://cdn.jsdelivr.net/gh/dreace/NUC-Info-Static@master/map/icon/TeachingBuilding.png",
                 "width": "30",
                 "height": "30",
                 "img": [
-                    "miniappimage/教学楼/主楼/1.jpg",
-                    "miniappimage/教学楼/主楼/2.jpg"
+                    "map/教学楼/主楼/1.jpg",
+                    "map/教学楼/主楼/2.jpg"
                 ],
                 "description": "主楼"
             },
@@ -22,11 +22,11 @@
                 "name": "一号楼（慧学楼）",
                 "latitude": "38.015712",
                 "longitude": "112.451157",
-                "iconPath": "https://dreace.top/imgs/miniappimage/icon/TeachingBuilding.png",
+                "iconPath": "https://cdn.jsdelivr.net/gh/dreace/NUC-Info-Static@master/map/icon/TeachingBuilding.png",
                 "width": "30",
                 "height": "30",
                 "img": [
-                    "miniappimage/default.png"
+                    "map/default.png"
                 ],
                 "description": "一号楼（慧学楼）"
             },
@@ -35,11 +35,11 @@
                 "name": "旧一号楼",
                 "latitude": "38.015682",
                 "longitude": "112.450540",
-                "iconPath": "https://dreace.top/imgs/miniappimage/icon/TeachingBuilding.png",
+                "iconPath": "https://cdn.jsdelivr.net/gh/dreace/NUC-Info-Static@master/map/icon/TeachingBuilding.png",
                 "width": "30",
                 "height": "30",
                 "img": [
-                    "miniappimage/default.png"
+                    "map/default.png"
                 ],
                 "description": "旧一号楼"
             },
@@ -48,11 +48,11 @@
                 "name": "二号楼（工学楼）",
                 "latitude": "38.010907",
                 "longitude": "112.441147",
-                "iconPath": "https://dreace.top/imgs/miniappimage/icon/TeachingBuilding.png",
+                "iconPath": "https://cdn.jsdelivr.net/gh/dreace/NUC-Info-Static@master/map/icon/TeachingBuilding.png",
                 "width": "30",
                 "height": "30",
                 "img": [
-                    "miniappimage/default.png"
+                    "map/default.png"
                 ],
                 "description": "二号楼（工学楼）"
             },
@@ -61,11 +61,11 @@
                 "name": "三号楼（诚学楼）",
                 "latitude": "38.011604",
                 "longitude": "112.441018",
-                "iconPath": "https://dreace.top/imgs/miniappimage/icon/TeachingBuilding.png",
+                "iconPath": "https://cdn.jsdelivr.net/gh/dreace/NUC-Info-Static@master/map/icon/TeachingBuilding.png",
                 "width": "30",
                 "height": "30",
                 "img": [
-                    "miniappimage/default.png"
+                    "map/default.png"
                 ],
                 "description": "三号楼（诚学楼）"
             },
@@ -74,11 +74,11 @@
                 "name": "四号楼（酬学楼）",
                 "latitude": "38.010699",
                 "longitude": "112.442542",
-                "iconPath": "https://dreace.top/imgs/miniappimage/icon/TeachingBuilding.png",
+                "iconPath": "https://cdn.jsdelivr.net/gh/dreace/NUC-Info-Static@master/map/icon/TeachingBuilding.png",
                 "width": "30",
                 "height": "30",
                 "img": [
-                    "miniappimage/教学楼/四号楼/1.jpg"
+                    "map/教学楼/四号楼/1.jpg"
                 ],
                 "description": "四号楼（酬学楼）"
             },
@@ -87,11 +87,11 @@
                 "name": "五号楼（明学楼）",
                 "latitude": "38.011528",
                 "longitude": "112.441860",
-                "iconPath": "https://dreace.top/imgs/miniappimage/icon/TeachingBuilding.png",
+                "iconPath": "https://cdn.jsdelivr.net/gh/dreace/NUC-Info-Static@master/map/icon/TeachingBuilding.png",
                 "width": "30",
                 "height": "30",
                 "img": [
-                    "miniappimage/default.png"
+                    "map/default.png"
                 ],
                 "description": "五号楼（明学楼）"
             },
@@ -100,12 +100,12 @@
                 "name": "六号楼（致学楼）",
                 "latitude": "38.014592",
                 "longitude": "112.454301",
-                "iconPath": "https://dreace.top/imgs/miniappimage/icon/TeachingBuilding.png",
+                "iconPath": "https://cdn.jsdelivr.net/gh/dreace/NUC-Info-Static@master/map/icon/TeachingBuilding.png",
                 "width": "30",
                 "height": "30",
                 "img": [
-                    "miniappimage/教学楼/六号楼/1.jpg",
-                    "miniappimage/教学楼/六号楼/2.jpg"
+                    "map/教学楼/六号楼/1.jpg",
+                    "map/教学楼/六号楼/2.jpg"
                 ],
                 "description": "六号楼（致学楼）"
             },
@@ -114,11 +114,11 @@
                 "name": "七号楼",
                 "latitude": "38.010429",
                 "longitude": "112.443298",
-                "iconPath": "https://dreace.top/imgs/miniappimage/icon/TeachingBuilding.png",
+                "iconPath": "https://cdn.jsdelivr.net/gh/dreace/NUC-Info-Static@master/map/icon/TeachingBuilding.png",
                 "width": "30",
                 "height": "30",
                 "img": [
-                    "miniappimage/教学楼/七号楼/1.jpg"
+                    "map/教学楼/七号楼/1.jpg"
                 ],
                 "description": "七号楼"
             },
@@ -127,11 +127,11 @@
                 "name": "八号楼（勤学楼）",
                 "latitude": "38.011393",
                 "longitude": "112.440788",
-                "iconPath": "https://dreace.top/imgs/miniappimage/icon/TeachingBuilding.png",
+                "iconPath": "https://cdn.jsdelivr.net/gh/dreace/NUC-Info-Static@master/map/icon/TeachingBuilding.png",
                 "width": "30",
                 "height": "30",
                 "img": [
-                    "miniappimage/default.png"
+                    "map/default.png"
                 ],
                 "description": "八号楼（勤学楼）"
             },
@@ -140,11 +140,11 @@
                 "name": "九号楼",
                 "latitude": "38.016071",
                 "longitude": "112.450615",
-                "iconPath": "https://dreace.top/imgs/miniappimage/icon/TeachingBuilding.png",
+                "iconPath": "https://cdn.jsdelivr.net/gh/dreace/NUC-Info-Static@master/map/icon/TeachingBuilding.png",
                 "width": "30",
                 "height": "30",
                 "img": [
-                    "miniappimage/default.png"
+                    "map/default.png"
                 ],
                 "description": "九号楼"
             },
@@ -153,12 +153,12 @@
                 "name": "十号楼（敏学楼）",
                 "latitude": "38.015949",
                 "longitude": "112.454805",
-                "iconPath": "https://dreace.top/imgs/miniappimage/icon/TeachingBuilding.png",
+                "iconPath": "https://cdn.jsdelivr.net/gh/dreace/NUC-Info-Static@master/map/icon/TeachingBuilding.png",
                 "width": "30",
                 "height": "30",
                 "img": [
-                    "miniappimage/教学楼/十号楼/1.jpg",
-                    "miniappimage/教学楼/十号楼/2.jpg"
+                    "map/教学楼/十号楼/1.jpg",
+                    "map/教学楼/十号楼/2.jpg"
                 ],
                 "description": "十号楼（敏学楼）"
             },
@@ -167,11 +167,11 @@
                 "name": "十一号楼",
                 "latitude": "38.015670",
                 "longitude": "112.449462",
-                "iconPath": "https://dreace.top/imgs/miniappimage/icon/TeachingBuilding.png",
+                "iconPath": "https://cdn.jsdelivr.net/gh/dreace/NUC-Info-Static@master/map/icon/TeachingBuilding.png",
                 "width": "30",
                 "height": "30",
                 "img": [
-                    "miniappimage/default.png"
+                    "map/default.png"
                 ],
                 "description": "十一号楼"
             },
@@ -180,11 +180,11 @@
                 "name": "十二号楼（鸿学楼）",
                 "latitude": "38.015399",
                 "longitude": "112.446710",
-                "iconPath": "https://dreace.top/imgs/miniappimage/icon/TeachingBuilding.png",
+                "iconPath": "https://cdn.jsdelivr.net/gh/dreace/NUC-Info-Static@master/map/icon/TeachingBuilding.png",
                 "width": "30",
                 "height": "30",
                 "img": [
-                    "miniappimage/default.png"
+                    "map/default.png"
                 ],
                 "description": "十二号楼（鸿学楼）"
             },
@@ -193,11 +193,11 @@
                 "name": "十三号楼",
                 "latitude": "38.016908",
                 "longitude": "112.447482",
-                "iconPath": "https://dreace.top/imgs/miniappimage/icon/TeachingBuilding.png",
+                "iconPath": "https://cdn.jsdelivr.net/gh/dreace/NUC-Info-Static@master/map/icon/TeachingBuilding.png",
                 "width": "30",
                 "height": "30",
                 "img": [
-                    "miniappimage/教学楼/十三号楼/1.jpg"
+                    "map/教学楼/十三号楼/1.jpg"
                 ],
                 "description": "十三号楼"
             },
@@ -206,11 +206,11 @@
                 "name": "十四号楼",
                 "latitude": "38.015201",
                 "longitude": "112.452772",
-                "iconPath": "https://dreace.top/imgs/miniappimage/icon/TeachingBuilding.png",
+                "iconPath": "https://cdn.jsdelivr.net/gh/dreace/NUC-Info-Static@master/map/icon/TeachingBuilding.png",
                 "width": "30",
                 "height": "30",
                 "img": [
-                    "miniappimage/default.png"
+                    "map/default.png"
                 ],
                 "description": "十四号楼"
             },
@@ -219,11 +219,11 @@
                 "name": "十五号楼（逸夫楼）",
                 "latitude": "38.011642",
                 "longitude": "112.443277",
-                "iconPath": "https://dreace.top/imgs/miniappimage/icon/TeachingBuilding.png",
+                "iconPath": "https://cdn.jsdelivr.net/gh/dreace/NUC-Info-Static@master/map/icon/TeachingBuilding.png",
                 "width": "30",
                 "height": "30",
                 "img": [
-                    "miniappimage/教学楼/十五号楼/1.jpg"
+                    "map/教学楼/十五号楼/1.jpg"
                 ],
                 "description": "十五号楼（逸夫楼）"
             },
@@ -232,11 +232,11 @@
                 "name": "瑞学楼",
                 "latitude": "38.016211",
                 "longitude": "112.448437",
-                "iconPath": "https://dreace.top/imgs/miniappimage/icon/TeachingBuilding.png",
+                "iconPath": "https://cdn.jsdelivr.net/gh/dreace/NUC-Info-Static@master/map/icon/TeachingBuilding.png",
                 "width": "30",
                 "height": "30",
                 "img": [
-                    "miniappimage/default.png"
+                    "map/default.png"
                 ],
                 "description": "瑞学楼"
             },
@@ -245,13 +245,13 @@
                 "name": "德怀楼",
                 "latitude": "38.010437",
                 "longitude": "112.442708",
-                "iconPath": "https://dreace.top/imgs/miniappimage/icon/TeachingBuilding.png",
+                "iconPath": "https://cdn.jsdelivr.net/gh/dreace/NUC-Info-Static@master/map/icon/TeachingBuilding.png",
                 "width": "30",
                 "height": "30",
                 "img": [
-                    "miniappimage/教学楼/德怀楼/1.jpg",
-                    "miniappimage/教学楼/德怀楼/2.jpg",
-                    "miniappimage/教学楼/德怀楼/3.jpg"
+                    "map/教学楼/德怀楼/1.jpg",
+                    "map/教学楼/德怀楼/2.jpg",
+                    "map/教学楼/德怀楼/3.jpg"
                 ],
                 "description": "德怀楼"
             },
@@ -260,11 +260,11 @@
                 "name": "思学楼",
                 "latitude": "38.016426",
                 "longitude": "112.449258",
-                "iconPath": "https://dreace.top/imgs/miniappimage/icon/TeachingBuilding.png",
+                "iconPath": "https://cdn.jsdelivr.net/gh/dreace/NUC-Info-Static@master/map/icon/TeachingBuilding.png",
                 "width": "30",
                 "height": "30",
                 "img": [
-                    "miniappimage/default.png"
+                    "map/default.png"
                 ],
                 "description": "思学楼"
             },
@@ -273,12 +273,12 @@
                 "name": "笃学楼",
                 "latitude": "38.014043",
                 "longitude": "112.452418",
-                "iconPath": "https://dreace.top/imgs/miniappimage/icon/TeachingBuilding.png",
+                "iconPath": "https://cdn.jsdelivr.net/gh/dreace/NUC-Info-Static@master/map/icon/TeachingBuilding.png",
                 "width": "30",
                 "height": "30",
                 "img": [
-                    "miniappimage/教学楼/笃学楼/1.jpg",
-                    "miniappimage/教学楼/笃学楼/2.jpg"
+                    "map/教学楼/笃学楼/1.jpg",
+                    "map/教学楼/笃学楼/2.jpg"
                 ],
                 "description": "笃学楼"
             },
@@ -287,15 +287,15 @@
                 "name": "科学楼",
                 "latitude": "38.017567",
                 "longitude": "112.450948",
-                "iconPath": "https://dreace.top/imgs/miniappimage/icon/TeachingBuilding.png",
+                "iconPath": "https://cdn.jsdelivr.net/gh/dreace/NUC-Info-Static@master/map/icon/TeachingBuilding.png",
                 "width": "30",
                 "height": "30",
                 "img": [
-                    "miniappimage/教学楼/科学楼/1.jpg",
-                    "miniappimage/教学楼/科学楼/2.jpg",
-                    "miniappimage/教学楼/科学楼/3.jpg",
-                    "miniappimage/教学楼/科学楼/4.jpg",
-                    "miniappimage/教学楼/科学楼/5.jpg"
+                    "map/教学楼/科学楼/1.jpg",
+                    "map/教学楼/科学楼/2.jpg",
+                    "map/教学楼/科学楼/3.jpg",
+                    "map/教学楼/科学楼/4.jpg",
+                    "map/教学楼/科学楼/5.jpg"
                 ],
                 "description": "科学楼"
             }
@@ -310,11 +310,11 @@
                 "name": "文瀛一",
                 "latitude": "38.0138960000",
                 "longitude": "112.4416480000",
-                "iconPath": "https://dreace.top/imgs/miniappimage/icon/Dormitory-boy.png",
+                "iconPath": "https://cdn.jsdelivr.net/gh/dreace/NUC-Info-Static@master/map/icon/Dormitory-boy.png",
                 "width": "30",
                 "height": "30",
                 "img": [
-                    "miniappimage/default.png"
+                    "map/default.png"
                 ],
                 "description": "文瀛一"
             },
@@ -323,11 +323,11 @@
                 "name": "文瀛二",
                 "latitude": "38.0144240000",
                 "longitude": "112.4428930000",
-                "iconPath": "https://dreace.top/imgs/miniappimage/icon/Dormitory-boy.png",
+                "iconPath": "https://cdn.jsdelivr.net/gh/dreace/NUC-Info-Static@master/map/icon/Dormitory-boy.png",
                 "width": "30",
                 "height": "30",
                 "img": [
-                    "miniappimage/default.png"
+                    "map/default.png"
                 ],
                 "description": "文瀛二"
             },
@@ -336,11 +336,11 @@
                 "name": "文瀛三",
                 "latitude": "38.0140330000",
                 "longitude": "112.4429410000",
-                "iconPath": "https://dreace.top/imgs/miniappimage/icon/Dormitory-boy.png",
+                "iconPath": "https://cdn.jsdelivr.net/gh/dreace/NUC-Info-Static@master/map/icon/Dormitory-boy.png",
                 "width": "30",
                 "height": "30",
                 "img": [
-                    "miniappimage/default.png"
+                    "map/default.png"
                 ],
                 "description": "文瀛三"
             },
@@ -349,11 +349,11 @@
                 "name": "文瀛四",
                 "latitude": "38.0138940000",
                 "longitude": "112.4429360000",
-                "iconPath": "https://dreace.top/imgs/miniappimage/icon/Dormitory-boy.png",
+                "iconPath": "https://cdn.jsdelivr.net/gh/dreace/NUC-Info-Static@master/map/icon/Dormitory-boy.png",
                 "width": "30",
                 "height": "30",
                 "img": [
-                    "miniappimage/default.png"
+                    "map/default.png"
                 ],
                 "description": "文瀛四"
             },
@@ -362,11 +362,11 @@
                 "name": "文瀛五",
                 "latitude": "38.0135900000",
                 "longitude": "112.4430160000",
-                "iconPath": "https://dreace.top/imgs/miniappimage/icon/Dormitory-boy.png",
+                "iconPath": "https://cdn.jsdelivr.net/gh/dreace/NUC-Info-Static@master/map/icon/Dormitory-boy.png",
                 "width": "30",
                 "height": "30",
                 "img": [
-                    "miniappimage/default.png"
+                    "map/default.png"
                 ],
                 "description": "文瀛五"
             },
@@ -375,11 +375,11 @@
                 "name": "文瀛六",
                 "latitude": "38.0132690000",
                 "longitude": "112.4429790000",
-                "iconPath": "https://dreace.top/imgs/miniappimage/icon/Dormitory-boy.png",
+                "iconPath": "https://cdn.jsdelivr.net/gh/dreace/NUC-Info-Static@master/map/icon/Dormitory-boy.png",
                 "width": "30",
                 "height": "30",
                 "img": [
-                    "miniappimage/default.png"
+                    "map/default.png"
                 ],
                 "description": "文瀛六"
             },
@@ -388,11 +388,11 @@
                 "name": "文瀛七",
                 "latitude": "38.0127750000",
                 "longitude": "112.4428520000",
-                "iconPath": "https://dreace.top/imgs/miniappimage/icon/Dormitory-boy.png",
+                "iconPath": "https://cdn.jsdelivr.net/gh/dreace/NUC-Info-Static@master/map/icon/Dormitory-boy.png",
                 "width": "30",
                 "height": "30",
                 "img": [
-                    "miniappimage/default.png"
+                    "map/default.png"
                 ],
                 "description": "文瀛七"
             },
@@ -401,11 +401,11 @@
                 "name": "文瀛八",
                 "latitude": "38.0128170000",
                 "longitude": "112.4433000000",
-                "iconPath": "https://dreace.top/imgs/miniappimage/icon/Dormitory-boy.png",
+                "iconPath": "https://cdn.jsdelivr.net/gh/dreace/NUC-Info-Static@master/map/icon/Dormitory-boy.png",
                 "width": "30",
                 "height": "30",
                 "img": [
-                    "miniappimage/default.png"
+                    "map/default.png"
                 ],
                 "description": "文瀛八"
             },
@@ -414,11 +414,11 @@
                 "name": "文瀛九",
                 "latitude": "38.0144670000",
                 "longitude": "112.4439280000",
-                "iconPath": "https://dreace.top/imgs/miniappimage/icon/Dormitory-boy.png",
+                "iconPath": "https://cdn.jsdelivr.net/gh/dreace/NUC-Info-Static@master/map/icon/Dormitory-boy.png",
                 "width": "30",
                 "height": "30",
                 "img": [
-                    "miniappimage/default.png"
+                    "map/default.png"
                 ],
                 "description": "文瀛九"
             },
@@ -427,11 +427,11 @@
                 "name": "文瀛十",
                 "latitude": "38.0141160000",
                 "longitude": "112.4439920000",
-                "iconPath": "https://dreace.top/imgs/miniappimage/icon/Dormitory-boy.png",
+                "iconPath": "https://cdn.jsdelivr.net/gh/dreace/NUC-Info-Static@master/map/icon/Dormitory-boy.png",
                 "width": "30",
                 "height": "30",
                 "img": [
-                    "miniappimage/default.png"
+                    "map/default.png"
                 ],
                 "description": "文瀛十"
             },
@@ -440,11 +440,11 @@
                 "name": "文瀛十一",
                 "latitude": "38.0139360000",
                 "longitude": "112.4439390000",
-                "iconPath": "https://dreace.top/imgs/miniappimage/icon/Dormitory-boy.png",
+                "iconPath": "https://cdn.jsdelivr.net/gh/dreace/NUC-Info-Static@master/map/icon/Dormitory-boy.png",
                 "width": "30",
                 "height": "30",
                 "img": [
-                    "miniappimage/default.png"
+                    "map/default.png"
                 ],
                 "description": "文瀛十一"
             },
@@ -453,11 +453,11 @@
                 "name": "文瀛十二",
                 "latitude": "38.0136410000",
                 "longitude": "112.4440030000",
-                "iconPath": "https://dreace.top/imgs/miniappimage/icon/Dormitory-boy.png",
+                "iconPath": "https://cdn.jsdelivr.net/gh/dreace/NUC-Info-Static@master/map/icon/Dormitory-boy.png",
                 "width": "30",
                 "height": "30",
                 "img": [
-                    "miniappimage/default.png"
+                    "map/default.png"
                 ],
                 "description": "文瀛十二"
             },
@@ -466,11 +466,11 @@
                 "name": "文瀛十三",
                 "latitude": "38.0132900000",
                 "longitude": "112.4440190000",
-                "iconPath": "https://dreace.top/imgs/miniappimage/icon/Dormitory-boy.png",
+                "iconPath": "https://cdn.jsdelivr.net/gh/dreace/NUC-Info-Static@master/map/icon/Dormitory-boy.png",
                 "width": "30",
                 "height": "30",
                 "img": [
-                    "miniappimage/default.png"
+                    "map/default.png"
                 ],
                 "description": "文瀛十三"
             },
@@ -479,11 +479,11 @@
                 "name": "文瀛十四",
                 "latitude": "38.0129470000",
                 "longitude": "112.4438420000",
-                "iconPath": "https://dreace.top/imgs/miniappimage/icon/Dormitory-boy.png",
+                "iconPath": "https://cdn.jsdelivr.net/gh/dreace/NUC-Info-Static@master/map/icon/Dormitory-boy.png",
                 "width": "30",
                 "height": "30",
                 "img": [
-                    "miniappimage/default.png"
+                    "map/default.png"
                 ],
                 "description": "文瀛十四"
             },
@@ -492,11 +492,11 @@
                 "name": "文瀛十五",
                 "latitude": "38.013125",
                 "longitude": "112.444376",
-                "iconPath": "https://dreace.top/imgs/miniappimage/icon/Dormitory-boy.png",
+                "iconPath": "https://cdn.jsdelivr.net/gh/dreace/NUC-Info-Static@master/map/icon/Dormitory-boy.png",
                 "width": "30",
                 "height": "30",
                 "img": [
-                    "miniappimage/default.png"
+                    "map/default.png"
                 ],
                 "description": "文瀛十五"
             },
@@ -505,11 +505,11 @@
                 "name": "文瀛十六",
                 "latitude": "38.013430",
                 "longitude": "112.445186",
-                "iconPath": "https://dreace.top/imgs/miniappimage/icon/Dormitory-boy.png",
+                "iconPath": "https://cdn.jsdelivr.net/gh/dreace/NUC-Info-Static@master/map/icon/Dormitory-boy.png",
                 "width": "30",
                 "height": "30",
                 "img": [
-                    "miniappimage/default.png"
+                    "map/default.png"
                 ],
                 "description": "文瀛十六"
             },
@@ -518,11 +518,11 @@
                 "name": "文瀛十七",
                 "latitude": "38.013480",
                 "longitude": "112.446254",
-                "iconPath": "https://dreace.top/imgs/miniappimage/icon/Dormitory-boy.png",
+                "iconPath": "https://cdn.jsdelivr.net/gh/dreace/NUC-Info-Static@master/map/icon/Dormitory-boy.png",
                 "width": "30",
                 "height": "30",
                 "img": [
-                    "miniappimage/default.png"
+                    "map/default.png"
                 ],
                 "description": "文瀛十七"
             },
@@ -531,11 +531,11 @@
                 "name": "文瀛十八",
                 "latitude": "38.014622",
                 "longitude": "112.446045",
-                "iconPath": "https://dreace.top/imgs/miniappimage/icon/Dormitory-boy.png",
+                "iconPath": "https://cdn.jsdelivr.net/gh/dreace/NUC-Info-Static@master/map/icon/Dormitory-boy.png",
                 "width": "30",
                 "height": "30",
                 "img": [
-                    "miniappimage/default.png"
+                    "map/default.png"
                 ],
                 "description": "文瀛十八"
             },
@@ -544,11 +544,11 @@
                 "name": "文瀛十九",
                 "latitude": "38.013430",
                 "longitude": "112.445186",
-                "iconPath": "https://dreace.top/imgs/miniappimage/icon/Dormitory-boy.png",
+                "iconPath": "https://cdn.jsdelivr.net/gh/dreace/NUC-Info-Static@master/map/icon/Dormitory-boy.png",
                 "width": "30",
                 "height": "30",
                 "img": [
-                    "miniappimage/default.png"
+                    "map/default.png"
                 ],
                 "description": "文瀛十九"
             },
@@ -557,12 +557,12 @@
                 "name": "怡丁苑一",
                 "latitude": "38.012098",
                 "longitude": "112.444972",
-                "iconPath": "https://dreace.top/imgs/miniappimage/icon/Dormitory-boy.png",
+                "iconPath": "https://cdn.jsdelivr.net/gh/dreace/NUC-Info-Static@master/map/icon/Dormitory-boy.png",
                 "width": "30",
                 "height": "30",
                 "img": [
-                    "miniappimage/宿舍/怡丁苑一/1.jpg",
-                    "miniappimage/宿舍/怡丁苑一/2.jpg"
+                    "map/宿舍/怡丁苑一/1.jpg",
+                    "map/宿舍/怡丁苑一/2.jpg"
                 ],
                 "description": "怡丁苑一"
             },
@@ -571,11 +571,11 @@
                 "name": "文韬一",
                 "latitude": "38.016477",
                 "longitude": "112.453775",
-                "iconPath": "https://dreace.top/imgs/miniappimage/icon/Dormitory-boy.png",
+                "iconPath": "https://cdn.jsdelivr.net/gh/dreace/NUC-Info-Static@master/map/icon/Dormitory-boy.png",
                 "width": "30",
                 "height": "30",
                 "img": [
-                    "miniappimage/宿舍/文韬一/1.jpg"
+                    "map/宿舍/文韬一/1.jpg"
                 ],
                 "description": "文韬一"
             },
@@ -584,11 +584,11 @@
                 "name": "文韬二",
                 "latitude": "38.015826",
                 "longitude": "112.453882",
-                "iconPath": "https://dreace.top/imgs/miniappimage/icon/Dormitory-boy.png",
+                "iconPath": "https://cdn.jsdelivr.net/gh/dreace/NUC-Info-Static@master/map/icon/Dormitory-boy.png",
                 "width": "30",
                 "height": "30",
                 "img": [
-                    "miniappimage/default.png"
+                    "map/default.png"
                 ],
                 "description": "文韬二"
             },
@@ -597,12 +597,12 @@
                 "name": "文韬三",
                 "latitude": "38.015336",
                 "longitude": "112.455191",
-                "iconPath": "https://dreace.top/imgs/miniappimage/icon/Dormitory-boy.png",
+                "iconPath": "https://cdn.jsdelivr.net/gh/dreace/NUC-Info-Static@master/map/icon/Dormitory-boy.png",
                 "width": "30",
                 "height": "30",
                 "img": [
-                    "miniappimage/宿舍/文韬三/1.jpg",
-                    "miniappimage/宿舍/文韬三/2.jpg"
+                    "map/宿舍/文韬三/1.jpg",
+                    "map/宿舍/文韬三/2.jpg"
                 ],
                 "description": "文韬三"
             },
@@ -611,12 +611,12 @@
                 "name": "文韬四",
                 "latitude": "38.016756",
                 "longitude": "112.455336",
-                "iconPath": "https://dreace.top/imgs/miniappimage/icon/Dormitory-boy.png",
+                "iconPath": "https://cdn.jsdelivr.net/gh/dreace/NUC-Info-Static@master/map/icon/Dormitory-boy.png",
                 "width": "30",
                 "height": "30",
                 "img": [
-                    "miniappimage/宿舍/文韬四/1.jpg",
-                    "miniappimage/宿舍/文韬四/1.jpg"
+                    "map/宿舍/文韬四/1.jpg",
+                    "map/宿舍/文韬四/1.jpg"
                 ],
                 "description": "文韬四"
             },
@@ -625,11 +625,11 @@
                 "name": "文韬五",
                 "latitude": "38.016422",
                 "longitude": "112.455352",
-                "iconPath": "https://dreace.top/imgs/miniappimage/icon/Dormitory-boy.png",
+                "iconPath": "https://cdn.jsdelivr.net/gh/dreace/NUC-Info-Static@master/map/icon/Dormitory-boy.png",
                 "width": "30",
                 "height": "30",
                 "img": [
-                    "miniappimage/宿舍/文韬五/1.jpg"
+                    "map/宿舍/文韬五/1.jpg"
                 ],
                 "description": "文韬五"
             },
@@ -638,13 +638,13 @@
                 "name": "文韬六",
                 "latitude": "38.017855",
                 "longitude": "112.455406",
-                "iconPath": "https://dreace.top/imgs/miniappimage/icon/Dormitory-boy.png",
+                "iconPath": "https://cdn.jsdelivr.net/gh/dreace/NUC-Info-Static@master/map/icon/Dormitory-boy.png",
                 "width": "30",
                 "height": "30",
                 "img": [
-                    "miniappimage/宿舍/文韬六/1.jpg",
-                    "miniappimage/宿舍/文韬六/2.jpg",
-                    "miniappimage/宿舍/文韬六/3.jpg"
+                    "map/宿舍/文韬六/1.jpg",
+                    "map/宿舍/文韬六/2.jpg",
+                    "map/宿舍/文韬六/3.jpg"
                 ],
                 "description": "文韬六"
             },
@@ -653,11 +653,11 @@
                 "name": "文韬七",
                 "latitude": "38.018349",
                 "longitude": "112.455379",
-                "iconPath": "https://dreace.top/imgs/miniappimage/icon/Dormitory-boy.png",
+                "iconPath": "https://cdn.jsdelivr.net/gh/dreace/NUC-Info-Static@master/map/icon/Dormitory-boy.png",
                 "width": "30",
                 "height": "30",
                 "img": [
-                    "miniappimage/宿舍/文韬七/1.jpg"
+                    "map/宿舍/文韬七/1.jpg"
                 ],
                 "description": "文韬七"
             },
@@ -666,12 +666,12 @@
                 "name": "文澜一",
                 "latitude": "38.014165",
                 "longitude": "112.457932",
-                "iconPath": "https://dreace.top/imgs/miniappimage/icon/Dormitory-boy.png",
+                "iconPath": "https://cdn.jsdelivr.net/gh/dreace/NUC-Info-Static@master/map/icon/Dormitory-boy.png",
                 "width": "30",
                 "height": "30",
                 "img": [
-                    "miniappimage/宿舍/文澜一/1.jpg",
-                    "miniappimage/宿舍/文澜一/2.jpg"
+                    "map/宿舍/文澜一/1.jpg",
+                    "map/宿舍/文澜一/2.jpg"
                 ],
                 "description": "文澜一"
             },
@@ -680,11 +680,11 @@
                 "name": "文澜二",
                 "latitude": "38.013569",
                 "longitude": "112.457862",
-                "iconPath": "https://dreace.top/imgs/miniappimage/icon/Dormitory-boy.png",
+                "iconPath": "https://cdn.jsdelivr.net/gh/dreace/NUC-Info-Static@master/map/icon/Dormitory-boy.png",
                 "width": "30",
                 "height": "30",
                 "img": [
-                    "miniappimage/宿舍/文澜二/1.jpg"
+                    "map/宿舍/文澜二/1.jpg"
                 ],
                 "description": "文澜二"
             },
@@ -693,11 +693,11 @@
                 "name": "文澜三",
                 "latitude": "38.013848",
                 "longitude": "112.458721",
-                "iconPath": "https://dreace.top/imgs/miniappimage/icon/Dormitory-boy.png",
+                "iconPath": "https://cdn.jsdelivr.net/gh/dreace/NUC-Info-Static@master/map/icon/Dormitory-boy.png",
                 "width": "30",
                 "height": "30",
                 "img": [
-                    "miniappimage/宿舍/文澜三/1.jpg"
+                    "map/宿舍/文澜三/1.jpg"
                 ],
                 "description": "文澜三"
             }
@@ -712,11 +712,11 @@
                 "name": "一道门",
                 "latitude": "38.009617",
                 "longitude": "112.442703",
-                "iconPath": "https://dreace.top/imgs/miniappimage/icon/SchoolGate.png",
+                "iconPath": "https://cdn.jsdelivr.net/gh/dreace/NUC-Info-Static@master/map/icon/SchoolGate.png",
                 "width": "30",
                 "height": "30",
                 "img": [
-                    "miniappimage/校门/一道门/1.jpg"
+                    "map/校门/一道门/1.jpg"
                 ],
                 "description": "一道门"
             },
@@ -725,11 +725,11 @@
                 "name": "二道门",
                 "latitude": "38.012445",
                 "longitude": "112.443577",
-                "iconPath": "https://dreace.top/imgs/miniappimage/icon/SchoolGate.png",
+                "iconPath": "https://cdn.jsdelivr.net/gh/dreace/NUC-Info-Static@master/map/icon/SchoolGate.png",
                 "width": "30",
                 "height": "30",
                 "img": [
-                    "miniappimage/default.png"
+                    "map/default.png"
                 ],
                 "description": "二道门"
             },
@@ -738,11 +738,11 @@
                 "name": "三道门",
                 "latitude": "38.012880",
                 "longitude": "112.445793",
-                "iconPath": "https://dreace.top/imgs/miniappimage/icon/SchoolGate.png",
+                "iconPath": "https://cdn.jsdelivr.net/gh/dreace/NUC-Info-Static@master/map/icon/SchoolGate.png",
                 "width": "30",
                 "height": "30",
                 "img": [
-                    "miniappimage/default.png"
+                    "map/default.png"
                 ],
                 "description": "三道门"
             },
@@ -751,11 +751,11 @@
                 "name": "四道门",
                 "latitude": "38.013421",
                 "longitude": "112.449585",
-                "iconPath": "https://dreace.top/imgs/miniappimage/icon/SchoolGate.png",
+                "iconPath": "https://cdn.jsdelivr.net/gh/dreace/NUC-Info-Static@master/map/icon/SchoolGate.png",
                 "width": "30",
                 "height": "30",
                 "img": [
-                    "miniappimage/default.png"
+                    "map/default.png"
                 ],
                 "description": "四道门"
             },
@@ -764,11 +764,11 @@
                 "name": "五道门",
                 "latitude": "38.013578",
                 "longitude": "112.452015",
-                "iconPath": "https://dreace.top/imgs/miniappimage/icon/SchoolGate.png",
+                "iconPath": "https://cdn.jsdelivr.net/gh/dreace/NUC-Info-Static@master/map/icon/SchoolGate.png",
                 "width": "30",
                 "height": "30",
                 "img": [
-                    "miniappimage/校门/五道门/1.jpg"
+                    "map/校门/五道门/1.jpg"
                 ],
                 "description": "五道门"
             },
@@ -777,11 +777,11 @@
                 "name": "六道门",
                 "latitude": "38.013937",
                 "longitude": "112.453560",
-                "iconPath": "https://dreace.top/imgs/miniappimage/icon/SchoolGate.png",
+                "iconPath": "https://cdn.jsdelivr.net/gh/dreace/NUC-Info-Static@master/map/icon/SchoolGate.png",
                 "width": "30",
                 "height": "30",
                 "img": [
-                    "miniappimage/default.png"
+                    "map/default.png"
                 ],
                 "description": "六道门"
             },
@@ -790,11 +790,11 @@
                 "name": "七道门",
                 "latitude": "38.013996",
                 "longitude": "112.455942",
-                "iconPath": "https://dreace.top/imgs/miniappimage/icon/SchoolGate.png",
+                "iconPath": "https://cdn.jsdelivr.net/gh/dreace/NUC-Info-Static@master/map/icon/SchoolGate.png",
                 "width": "30",
                 "height": "30",
                 "img": [
-                    "miniappimage/default.png"
+                    "map/default.png"
                 ],
                 "description": "七道门"
             }
@@ -809,11 +809,11 @@
                 "name": "四食堂",
                 "latitude": "38.014858",
                 "longitude": "112.444806",
-                "iconPath": "https://dreace.top/imgs/miniappimage/icon/Canteen.png",
+                "iconPath": "https://cdn.jsdelivr.net/gh/dreace/NUC-Info-Static@master/map/icon/Canteen.png",
                 "width": "30",
                 "height": "30",
                 "img": [
-                    "miniappimage/default.png"
+                    "map/default.png"
                 ],
                 "description": "四食堂"
             },
@@ -822,11 +822,11 @@
                 "name": "文瀛餐厅",
                 "latitude": "38.014275",
                 "longitude": "112.445009",
-                "iconPath": "https://dreace.top/imgs/miniappimage/icon/Canteen.png",
+                "iconPath": "https://cdn.jsdelivr.net/gh/dreace/NUC-Info-Static@master/map/icon/Canteen.png",
                 "width": "30",
                 "height": "30",
                 "img": [
-                    "miniappimage/default.png"
+                    "map/default.png"
                 ],
                 "description": "文瀛餐厅"
             },
@@ -835,11 +835,11 @@
                 "name": "食味坊",
                 "latitude": "38.013810",
                 "longitude": "112.444827",
-                "iconPath": "https://dreace.top/imgs/miniappimage/icon/Canteen.png",
+                "iconPath": "https://cdn.jsdelivr.net/gh/dreace/NUC-Info-Static@master/map/icon/Canteen.png",
                 "width": "30",
                 "height": "30",
                 "img": [
-                    "miniappimage/default.png"
+                    "map/default.png"
                 ],
                 "description": "食味坊"
             },
@@ -848,11 +848,11 @@
                 "name": "麦港",
                 "latitude": "38.013671",
                 "longitude": "112.444865",
-                "iconPath": "https://dreace.top/imgs/miniappimage/icon/Canteen.png",
+                "iconPath": "https://cdn.jsdelivr.net/gh/dreace/NUC-Info-Static@master/map/icon/Canteen.png",
                 "width": "30",
                 "height": "30",
                 "img": [
-                    "miniappimage/default.png"
+                    "map/default.png"
                 ],
                 "description": "麦港"
             },
@@ -861,11 +861,11 @@
                 "name": "雅贤阁",
                 "latitude": "38.014229",
                 "longitude": "112.445385",
-                "iconPath": "https://dreace.top/imgs/miniappimage/icon/Canteen.png",
+                "iconPath": "https://cdn.jsdelivr.net/gh/dreace/NUC-Info-Static@master/map/icon/Canteen.png",
                 "width": "30",
                 "height": "30",
                 "img": [
-                    "miniappimage/default.png"
+                    "map/default.png"
                 ],
                 "description": "雅贤阁"
             },
@@ -874,11 +874,11 @@
                 "name": "龙山餐厅",
                 "latitude": "38.017331",
                 "longitude": "112.455481",
-                "iconPath": "https://dreace.top/imgs/miniappimage/icon/Canteen.png",
+                "iconPath": "https://cdn.jsdelivr.net/gh/dreace/NUC-Info-Static@master/map/icon/Canteen.png",
                 "width": "30",
                 "height": "30",
                 "img": [
-                    "miniappimage/食堂/龙山餐厅/1.jpg"
+                    "map/食堂/龙山餐厅/1.jpg"
                 ],
                 "description": "龙山餐厅"
             },
@@ -887,12 +887,12 @@
                 "name": "田园食堂",
                 "latitude": "38.014000",
                 "longitude": "112.456725",
-                "iconPath": "https://dreace.top/imgs/miniappimage/icon/Canteen.png",
+                "iconPath": "https://cdn.jsdelivr.net/gh/dreace/NUC-Info-Static@master/map/icon/Canteen.png",
                 "width": "30",
                 "height": "30",
                 "img": [
-                    "miniappimage/食堂/田园食堂/1.jpg",
-                    "miniappimage/食堂/田园食堂/2.jpg"
+                    "map/食堂/田园食堂/1.jpg",
+                    "map/食堂/田园食堂/2.jpg"
                 ],
                 "description": "田园食堂"
             }
@@ -907,11 +907,11 @@
                 "name": "菜鸟驿站（韵达）",
                 "latitude": "38.013514",
                 "longitude": "112.453555",
-                "iconPath": "https://dreace.top/imgs/miniappimage/icon/Express.png",
+                "iconPath": "https://cdn.jsdelivr.net/gh/dreace/NUC-Info-Static@master/map/icon/Express.png",
                 "width": "30",
                 "height": "30",
                 "img": [
-                    "miniappimage/快递点/菜鸟驿站/1.jpg"
+                    "map/快递点/菜鸟驿站/1.jpg"
                 ],
                 "description": "菜鸟驿站（韵达）"
             },
@@ -920,12 +920,12 @@
                 "name": "菜鸟驿站（中通）",
                 "latitude": "38.012859",
                 "longitude": "112.450240",
-                "iconPath": "https://dreace.top/imgs/miniappimage/icon/Express.png",
+                "iconPath": "https://cdn.jsdelivr.net/gh/dreace/NUC-Info-Static@master/map/icon/Express.png",
                 "width": "30",
                 "height": "30",
                 "img": [
-                    "miniappimage/快递点/菜鸟驿站1/1.jpg",
-                    "miniappimage/快递点/菜鸟驿站1/2.jpg"
+                    "map/快递点/菜鸟驿站1/1.jpg",
+                    "map/快递点/菜鸟驿站1/2.jpg"
                 ],
                 "description": "菜鸟驿站（中通）"
             },
@@ -934,11 +934,11 @@
                 "name": "近邻宝&京东",
                 "latitude": "38.016616",
                 "longitude": "112.447021",
-                "iconPath": "https://dreace.top/imgs/miniappimage/icon/Express.png",
+                "iconPath": "https://cdn.jsdelivr.net/gh/dreace/NUC-Info-Static@master/map/icon/Express.png",
                 "width": "30",
                 "height": "30",
                 "img": [
-                    "miniappimage/快递点/京东&近邻宝/1.jpg"
+                    "map/快递点/京东&近邻宝/1.jpg"
                 ],
                 "description": "近邻宝&京东"
             },
@@ -947,11 +947,11 @@
                 "name": "EMS",
                 "latitude": "38.015298",
                 "longitude": "112.444012",
-                "iconPath": "https://dreace.top/imgs/miniappimage/icon/Express.png",
+                "iconPath": "https://cdn.jsdelivr.net/gh/dreace/NUC-Info-Static@master/map/icon/Express.png",
                 "width": "30",
                 "height": "30",
                 "img": [
-                    "miniappimage/default.png"
+                    "map/default.png"
                 ],
                 "description": "EMS"
             }
@@ -966,11 +966,11 @@
                 "name": "二龙山",
                 "latitude": "38.016790",
                 "longitude": "112.438889",
-                "iconPath": "https://dreace.top/imgs/miniappimage/icon/Attractions.png",
+                "iconPath": "https://cdn.jsdelivr.net/gh/dreace/NUC-Info-Static@master/map/icon/Attractions.png",
                 "width": "30",
                 "height": "30",
                 "img": [
-                    "miniappimage/default.png"
+                    "map/default.png"
                 ],
                 "description": "二龙山"
             },
@@ -979,11 +979,11 @@
                 "name": "柏林园",
                 "latitude": "38.012969",
                 "longitude": "112.442241",
-                "iconPath": "https://dreace.top/imgs/miniappimage/icon/Attractions.png",
+                "iconPath": "https://cdn.jsdelivr.net/gh/dreace/NUC-Info-Static@master/map/icon/Attractions.png",
                 "width": "30",
                 "height": "30",
                 "img": [
-                    "miniappimage/default.png"
+                    "map/default.png"
                 ],
                 "description": "柏林园"
             },
@@ -992,12 +992,12 @@
                 "name": "军工文化园",
                 "latitude": "38.010911",
                 "longitude": "112.444612",
-                "iconPath": "https://dreace.top/imgs/miniappimage/icon/Attractions.png",
+                "iconPath": "https://cdn.jsdelivr.net/gh/dreace/NUC-Info-Static@master/map/icon/Attractions.png",
                 "width": "30",
                 "height": "30",
                 "img": [
-                    "miniappimage/景点/军工文化园/1.jpg",
-                    "miniappimage/景点/军工文化园/2.jpg"
+                    "map/景点/军工文化园/1.jpg",
+                    "map/景点/军工文化园/2.jpg"
                 ],
                 "description": "军工文化园"
             },
@@ -1006,12 +1006,12 @@
                 "name": "铁路主题公园",
                 "latitude": "38.013316",
                 "longitude": "112.449864",
-                "iconPath": "https://dreace.top/imgs/miniappimage/icon/Attractions.png",
+                "iconPath": "https://cdn.jsdelivr.net/gh/dreace/NUC-Info-Static@master/map/icon/Attractions.png",
                 "width": "30",
                 "height": "30",
                 "img": [
-                    "miniappimage/景点/铁路主题公园/1.jpg",
-                    "miniappimage/景点/铁路主题公园/2.jpg"
+                    "map/景点/铁路主题公园/1.jpg",
+                    "map/景点/铁路主题公园/2.jpg"
                 ],
                 "description": "铁路主题公园"
             },
@@ -1020,11 +1020,11 @@
                 "name": "窦大夫祠",
                 "latitude": "38.011262",
                 "longitude": "112.439629",
-                "iconPath": "https://dreace.top/imgs/miniappimage/icon/Attractions.png",
+                "iconPath": "https://cdn.jsdelivr.net/gh/dreace/NUC-Info-Static@master/map/icon/Attractions.png",
                 "width": "30",
                 "height": "30",
                 "img": [
-                    "miniappimage/default.png"
+                    "map/default.png"
                 ],
                 "description": "窦大夫祠"
             }
@@ -1039,11 +1039,11 @@
                 "name": "主操场",
                 "latitude": "38.014224",
                 "longitude": "112.446994",
-                "iconPath": "https://dreace.top/imgs/miniappimage/icon/Playground.png",
+                "iconPath": "https://cdn.jsdelivr.net/gh/dreace/NUC-Info-Static@master/map/icon/Playground.png",
                 "width": "30",
                 "height": "30",
                 "img": [
-                    "miniappimage/default.png"
+                    "map/default.png"
                 ],
                 "description": "主操场"
             },
@@ -1052,11 +1052,11 @@
                 "name": "西区篮球场",
                 "latitude": "38.014098",
                 "longitude": "112.442123",
-                "iconPath": "https://dreace.top/imgs/miniappimage/icon/Playground.png",
+                "iconPath": "https://cdn.jsdelivr.net/gh/dreace/NUC-Info-Static@master/map/icon/Playground.png",
                 "width": "30",
                 "height": "30",
                 "img": [
-                    "miniappimage/default.png"
+                    "map/default.png"
                 ],
                 "description": "西区篮球场"
             },
@@ -1065,11 +1065,11 @@
                 "name": "网球场一",
                 "latitude": "38.013282",
                 "longitude": "112.447402",
-                "iconPath": "https://dreace.top/imgs/miniappimage/icon/Playground.png",
+                "iconPath": "https://cdn.jsdelivr.net/gh/dreace/NUC-Info-Static@master/map/icon/Playground.png",
                 "width": "30",
                 "height": "30",
                 "img": [
-                    "miniappimage/default.png"
+                    "map/default.png"
                 ],
                 "description": "网球场一"
             },
@@ -1078,11 +1078,11 @@
                 "name": "网球场二",
                 "latitude": "38.013785",
                 "longitude": "112.448416",
-                "iconPath": "https://dreace.top/imgs/miniappimage/icon/Playground.png",
+                "iconPath": "https://cdn.jsdelivr.net/gh/dreace/NUC-Info-Static@master/map/icon/Playground.png",
                 "width": "30",
                 "height": "30",
                 "img": [
-                    "miniappimage/default.png"
+                    "map/default.png"
                 ],
                 "description": "网球场二"
             },
@@ -1091,11 +1091,11 @@
                 "name": "主操场篮球场",
                 "latitude": "38.014343",
                 "longitude": "112.448282",
-                "iconPath": "https://dreace.top/imgs/miniappimage/icon/Playground.png",
+                "iconPath": "https://cdn.jsdelivr.net/gh/dreace/NUC-Info-Static@master/map/icon/Playground.png",
                 "width": "30",
                 "height": "30",
                 "img": [
-                    "miniappimage/default.png"
+                    "map/default.png"
                 ],
                 "description": "主操场篮球场"
             },
@@ -1104,11 +1104,11 @@
                 "name": "羽毛球馆",
                 "latitude": "38.014867",
                 "longitude": "112.448078",
-                "iconPath": "https://dreace.top/imgs/miniappimage/icon/Playground.png",
+                "iconPath": "https://cdn.jsdelivr.net/gh/dreace/NUC-Info-Static@master/map/icon/Playground.png",
                 "width": "30",
                 "height": "30",
                 "img": [
-                    "miniappimage/default.png"
+                    "map/default.png"
                 ],
                 "description": "羽毛球馆"
             },
@@ -1117,11 +1117,11 @@
                 "name": "西区足球场",
                 "latitude": "38.011393",
                 "longitude": "112.444639",
-                "iconPath": "https://dreace.top/imgs/miniappimage/icon/Playground.png",
+                "iconPath": "https://cdn.jsdelivr.net/gh/dreace/NUC-Info-Static@master/map/icon/Playground.png",
                 "width": "30",
                 "height": "30",
                 "img": [
-                    "miniappimage/运动场/西区足球场/1.jpg"
+                    "map/运动场/西区足球场/1.jpg"
                 ],
                 "description": "西区足球场"
             },
@@ -1130,11 +1130,11 @@
                 "name": "游泳馆",
                 "latitude": "38.016933",
                 "longitude": "112.448110",
-                "iconPath": "https://dreace.top/imgs/miniappimage/icon/Playground.png",
+                "iconPath": "https://cdn.jsdelivr.net/gh/dreace/NUC-Info-Static@master/map/icon/Playground.png",
                 "width": "30",
                 "height": "30",
                 "img": [
-                    "miniappimage/运动场/游泳馆/1.jpg"
+                    "map/运动场/游泳馆/1.jpg"
                 ],
                 "description": "游泳馆"
             },
@@ -1143,12 +1143,12 @@
                 "name": "东区足球场",
                 "latitude": "38.017787",
                 "longitude": "112.452300",
-                "iconPath": "https://dreace.top/imgs/miniappimage/icon/Playground.png",
+                "iconPath": "https://cdn.jsdelivr.net/gh/dreace/NUC-Info-Static@master/map/icon/Playground.png",
                 "width": "30",
                 "height": "30",
                 "img": [
-                    "miniappimage/运动场/东区足球场/1.jpg",
-                    "miniappimage/运动场/东区足球场/2.jpg"
+                    "map/运动场/东区足球场/1.jpg",
+                    "map/运动场/东区足球场/2.jpg"
                 ],
                 "description": "东区足球场"
             },
@@ -1157,11 +1157,11 @@
                 "name": "东区篮球场",
                 "latitude": "38.016232",
                 "longitude": "112.452461",
-                "iconPath": "https://dreace.top/imgs/miniappimage/icon/Playground.png",
+                "iconPath": "https://cdn.jsdelivr.net/gh/dreace/NUC-Info-Static@master/map/icon/Playground.png",
                 "width": "30",
                 "height": "30",
                 "img": [
-                    "miniappimage/运动场/东区篮球场/1.jpg"
+                    "map/运动场/东区篮球场/1.jpg"
                 ],
                 "description": "东区篮球场"
             }
@@ -1176,11 +1176,11 @@
                 "name": "行知广场",
                 "latitude": "38.014076",
                 "longitude": "112.449542",
-                "iconPath": "https://dreace.top/imgs/miniappimage/icon/Other.png",
+                "iconPath": "https://cdn.jsdelivr.net/gh/dreace/NUC-Info-Static@master/map/icon/Other.png",
                 "width": "30",
                 "height": "30",
                 "img": [
-                    "miniappimage/其他设施/行知广场/1.jpg"
+                    "map/其他设施/行知广场/1.jpg"
                 ],
                 "description": "行知广场"
             },
@@ -1189,11 +1189,11 @@
                 "name": "校医院",
                 "latitude": "38.017047",
                 "longitude": "112.446442",
-                "iconPath": "https://dreace.top/imgs/miniappimage/icon/Other.png",
+                "iconPath": "https://cdn.jsdelivr.net/gh/dreace/NUC-Info-Static@master/map/icon/Other.png",
                 "width": "30",
                 "height": "30",
                 "img": [
-                    "miniappimage/其他设施/校医院/1.jpg"
+                    "map/其他设施/校医院/1.jpg"
                 ],
                 "description": "校医院"
             },
@@ -1202,11 +1202,11 @@
                 "name": "科艺苑",
                 "latitude": "38.015365",
                 "longitude": "112.443910",
-                "iconPath": "https://dreace.top/imgs/miniappimage/icon/Other.png",
+                "iconPath": "https://cdn.jsdelivr.net/gh/dreace/NUC-Info-Static@master/map/icon/Other.png",
                 "width": "30",
                 "height": "30",
                 "img": [
-                    "miniappimage/其他设施/科艺苑/1.jpg"
+                    "map/其他设施/科艺苑/1.jpg"
                 ],
                 "description": "科艺苑"
             },
@@ -1215,11 +1215,11 @@
                 "name": "瑾瑜国际会议中心",
                 "latitude": "38.017576",
                 "longitude": "112.450342",
-                "iconPath": "https://dreace.top/imgs/miniappimage/icon/Other.png",
+                "iconPath": "https://cdn.jsdelivr.net/gh/dreace/NUC-Info-Static@master/map/icon/Other.png",
                 "width": "30",
                 "height": "30",
                 "img": [
-                    "miniappimage/其他设施/瑾瑜国际会议中心/1.jpg"
+                    "map/其他设施/瑾瑜国际会议中心/1.jpg"
                 ],
                 "description": "瑾瑜国际会议中心"
             },
@@ -1228,12 +1228,12 @@
                 "name": "中北酒店",
                 "latitude": "38.012280",
                 "longitude": "112.450165",
-                "iconPath": "https://dreace.top/imgs/miniappimage/icon/Other.png",
+                "iconPath": "https://cdn.jsdelivr.net/gh/dreace/NUC-Info-Static@master/map/icon/Other.png",
                 "width": "30",
                 "height": "30",
                 "img": [
-                    "miniappimage/其他设施/中北酒店/1.jpg",
-                    "miniappimage/其他设施/中北酒店/2.jpg"
+                    "map/其他设施/中北酒店/1.jpg",
+                    "map/其他设施/中北酒店/2.jpg"
                 ],
                 "description": "中北酒店"
             }

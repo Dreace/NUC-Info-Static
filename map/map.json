@@ -956,6 +956,45 @@
                     "map/default.png"
                 ],
                 "description": "EMS"
+            },
+            {
+                "id": 4,
+                "name": "菜鸟驿站&韵达超市",
+                "latitude": "38.017221",
+                "longitude": "112.448915",
+                "iconPath": "https://cdn.jsdelivr.net/gh/dreace/NUC-Info-Static@master/map/icon/Express.png",
+                "width": "30",
+                "height": "30",
+                "img": [
+                    "map/default.png"
+                ],
+                "description": "菜鸟驿站接收中通包裹，韵达超市接收韵达包裹，取件时需出示一卡通或一卡通照片。"
+            },
+            {
+                "id": 5,
+                "name": "顺丰",
+                "latitude": "38.015737",
+                "longitude": "112.444999",
+                "iconPath": "https://cdn.jsdelivr.net/gh/dreace/NUC-Info-Static@master/map/icon/Express.png",
+                "width": "30",
+                "height": "30",
+                "img": [
+                    "map/default.png"
+                ],
+                "description": "顺丰"
+            },
+            {
+                "id": 6,
+                "name": "申通",
+                "latitude": "38.015733",
+                "longitude": "112.444730",
+                "iconPath": "https://cdn.jsdelivr.net/gh/dreace/NUC-Info-Static@master/map/icon/Express.png",
+                "width": "30",
+                "height": "30",
+                "img": [
+                    "map/default.png"
+                ],
+                "description": "申通"
             }
         ]
     },

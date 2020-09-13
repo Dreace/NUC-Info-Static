@@ -904,33 +904,6 @@
         "data": [
             {
                 "id": 0,
-                "name": "菜鸟驿站（韵达）",
-                "latitude": "38.013514",
-                "longitude": "112.453555",
-                "iconPath": "https://cdn.jsdelivr.net/gh/dreace/NUC-Info-Static@master/map/icon/Express.png",
-                "width": "30",
-                "height": "30",
-                "img": [
-                    "map/快递点/菜鸟驿站/1.jpg"
-                ],
-                "description": "菜鸟驿站（韵达）"
-            },
-            {
-                "id": 1,
-                "name": "菜鸟驿站（中通）",
-                "latitude": "38.012859",
-                "longitude": "112.450240",
-                "iconPath": "https://cdn.jsdelivr.net/gh/dreace/NUC-Info-Static@master/map/icon/Express.png",
-                "width": "30",
-                "height": "30",
-                "img": [
-                    "map/快递点/菜鸟驿站1/1.jpg",
-                    "map/快递点/菜鸟驿站1/2.jpg"
-                ],
-                "description": "菜鸟驿站（中通）"
-            },
-            {
-                "id": 2,
                 "name": "近邻宝&京东",
                 "latitude": "38.016616",
                 "longitude": "112.447021",
@@ -945,7 +918,7 @@
                 "description": "近邻宝&京东"
             },
             {
-                "id": 3,
+                "id": 1,
                 "name": "EMS",
                 "latitude": "38.015298",
                 "longitude": "112.444012",
@@ -958,7 +931,7 @@
                 "description": "EMS"
             },
             {
-                "id": 4,
+                "id": 2,
                 "name": "菜鸟驿站&韵达超市",
                 "latitude": "38.017221",
                 "longitude": "112.448915",
@@ -971,7 +944,7 @@
                 "description": "菜鸟驿站接收中通包裹，韵达超市接收韵达包裹，取件时需出示一卡通或一卡通照片。"
             },
             {
-                "id": 5,
+                "id": 3,
                 "name": "顺丰",
                 "latitude": "38.015737",
                 "longitude": "112.444999",
@@ -984,7 +957,7 @@
                 "description": "顺丰"
             },
             {
-                "id": 6,
+                "id": 4,
                 "name": "申通",
                 "latitude": "38.015733",
                 "longitude": "112.444730",

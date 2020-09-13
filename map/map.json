@@ -314,7 +314,8 @@
                 "width": "30",
                 "height": "30",
                 "img": [
-                    "map/default.png"
+                    "map/宿舍/文瀛一/1.jpg",
+                    "map/宿舍/文瀛一/2.jpg"
                 ],
                 "description": "文瀛一"
             },
@@ -353,7 +354,7 @@
                 "width": "30",
                 "height": "30",
                 "img": [
-                    "map/default.png"
+                    "map/宿舍/文瀛四/1.jpg"
                 ],
                 "description": "文瀛四"
             },
@@ -366,7 +367,7 @@
                 "width": "30",
                 "height": "30",
                 "img": [
-                    "map/default.png"
+                    "map/宿舍/文瀛五/1.jpg"
                 ],
                 "description": "文瀛五"
             },
@@ -932,14 +933,14 @@
             },
             {
                 "id": 2,
-                "name": "菜鸟驿站&韵达超市",
+                "name": "菜鸟驿站&韵达快递超市",
                 "latitude": "38.017221",
                 "longitude": "112.448915",
                 "iconPath": "https://cdn.jsdelivr.net/gh/dreace/NUC-Info-Static@master/map/icon/Express.png",
                 "width": "30",
                 "height": "30",
                 "img": [
-                    "map/default.png"
+                    "map/快递点/菜鸟驿站&韵达快递超市/1.jpg"
                 ],
                 "description": "菜鸟驿站接收中通包裹，韵达超市接收韵达包裹，取件时需出示一卡通或一卡通照片。"
             },
@@ -952,7 +953,7 @@
                 "width": "30",
                 "height": "30",
                 "img": [
-                    "map/default.png"
+                    "map/快递点/顺丰/1.jpg"
                 ],
                 "description": "顺丰"
             },
@@ -965,10 +966,11 @@
                 "width": "30",
                 "height": "30",
                 "img": [
-                    "map/default.png"
+                    "map/快递点/申通/1.jpg"
                 ],
                 "description": "申通"
-            },{
+            },
+            {
                 "id": 5,
                 "name": "百世",
                 "latitude": "38.011836",
@@ -997,7 +999,7 @@
                 "width": "30",
                 "height": "30",
                 "img": [
-                    "map/default.png"
+                    "map/景点/二龙山/1.jpg"
                 ],
                 "description": "二龙山"
             },

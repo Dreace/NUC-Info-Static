@@ -920,14 +920,14 @@
             },
             {
                 "id": 1,
-                "name": "EMS",
+                "name": "EMS（中国邮政）",
                 "latitude": "38.015298",
                 "longitude": "112.444012",
                 "iconPath": "https://cdn.jsdelivr.net/gh/dreace/NUC-Info-Static@master/map/icon/Express.png",
                 "width": "30",
                 "height": "30",
                 "img": [
-                    "map/default.png"
+                    "map/快递点/EMS/1.jpg"
                 ],
                 "description": "EMS"
             },

@@ -968,6 +968,19 @@
                     "map/default.png"
                 ],
                 "description": "申通"
+            },{
+                "id": 5,
+                "name": "百世",
+                "latitude": "38.011836",
+                "longitude": "112.449832",
+                "iconPath": "https://cdn.jsdelivr.net/gh/dreace/NUC-Info-Static@master/map/icon/Express.png",
+                "width": "30",
+                "height": "30",
+                "img": [
+                    "map/快递点/百世/1.jpg",
+                    "map/快递点/百世/2.jpg"
+                ],
+                "description": "中北酒店旁森德超市内。"
             }
         ]
     },

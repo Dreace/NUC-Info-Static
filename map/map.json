@@ -144,7 +144,7 @@
                 "width": "30",
                 "height": "30",
                 "img": [
-                    "map/default.png"
+                    "map/教学楼/九号楼/1.jpg"
                 ],
                 "description": "九号楼"
             },
@@ -210,7 +210,7 @@
                 "width": "30",
                 "height": "30",
                 "img": [
-                    "map/default.png"
+                    "map/教学楼/十四号楼/1.jpg"
                 ],
                 "description": "十四号楼"
             },
@@ -298,6 +298,27 @@
                     "map/教学楼/科学楼/5.jpg"
                 ],
                 "description": "科学楼"
+            },
+            {
+                "id": 22,
+                "name": "航拍",
+                "latitude": "38.014846",
+                "longitude": "112.449349",
+                "iconPath": "https://cdn.jsdelivr.net/gh/dreace/NUC-Info-Static@master/map/icon/TeachingBuilding.png",
+                "width": "30",
+                "height": "30",
+                "img": [
+                    "map/教学楼/航拍/1.jpg",
+                    "map/教学楼/航拍/2.jpg",
+                    "map/教学楼/航拍/3.jpg",
+                    "map/教学楼/航拍/4.jpg",
+                    "map/教学楼/航拍/5.jpg",
+                    "map/教学楼/航拍/6.jpg",
+                    "map/教学楼/航拍/7.jpg",
+                    "map/教学楼/航拍/8.jpg",
+                    "map/教学楼/航拍/9.jpg"
+                ],
+                "description": "航拍"
             }
         ]
     },
